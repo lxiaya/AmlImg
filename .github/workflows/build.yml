@@ -21,7 +21,7 @@ jobs:
         run: bash ./buildAllPlatforms.sh
 
       - name: Upload artifacts
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@main
         with:
           name: bin
           path: bin/*
