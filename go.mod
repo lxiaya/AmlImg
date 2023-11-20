@@ -1,3 +1,3 @@
-module github.com/hzyitc/AmlImg
+module github.com/lxiaya/AmlImg
 
 go 1.16
