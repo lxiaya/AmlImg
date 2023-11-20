@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/hzyitc/AmlImg/AmlImg"
+	"github.com/lxiaya/AmlImg/AmlImg"
 )
 
 func unpack(filePath, extractPath string) error {
