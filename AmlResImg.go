@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/hzyitc/AmlImg/AmlResImg"
+	"github.com/lxiaya/AmlImg/AmlResImg"
 )
 
 func res_unpack(filePath, extractPath string) error {
