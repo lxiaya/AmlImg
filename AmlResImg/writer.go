@@ -7,7 +7,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/hzyitc/AmlImg/AmlCRC"
+	"github.com/lxiaya/AmlImg/AmlCRC"
 )
 
 type ImageWriter struct {
